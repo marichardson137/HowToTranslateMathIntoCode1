@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/michaelrichardson/Desktop/YouTube/TranslatingMathIntoCode1/media/videos/TestManim/1080p60/partial_movie_files/Test/2902699114_2523308260_2358810818.mp4'
+file 'file:/Users/michaelrichardson/Desktop/YouTube/TranslatingMathIntoCode1/media/videos/TestManim/1080p60/partial_movie_files/Test/3931933789_791967190_2561774919.mp4'
+file 'file:/Users/michaelrichardson/Desktop/YouTube/TranslatingMathIntoCode1/media/videos/TestManim/1080p60/partial_movie_files/Test/3931933789_4057953600_2509355147.mp4'
+file 'file:/Users/michaelrichardson/Desktop/YouTube/TranslatingMathIntoCode1/media/videos/TestManim/1080p60/partial_movie_files/Test/3931933789_1562637797_145369373.mp4'
+file 'file:/Users/michaelrichardson/Desktop/YouTube/TranslatingMathIntoCode1/media/videos/TestManim/1080p60/partial_movie_files/Test/3931933789_125286499_1979203301.mp4'
+file 'file:/Users/michaelrichardson/Desktop/YouTube/TranslatingMathIntoCode1/media/videos/TestManim/1080p60/partial_movie_files/Test/3931933789_1099010667_475951940.mp4'
+file 'file:/Users/michaelrichardson/Desktop/YouTube/TranslatingMathIntoCode1/media/videos/TestManim/1080p60/partial_movie_files/Test/3931933789_791967190_2913301399.mp4'
+file 'file:/Users/michaelrichardson/Desktop/YouTube/TranslatingMathIntoCode1/media/videos/TestManim/1080p60/partial_movie_files/Test/3931933789_1676356323_608088314.mp4'
+file 'file:/Users/michaelrichardson/Desktop/YouTube/TranslatingMathIntoCode1/media/videos/TestManim/1080p60/partial_movie_files/Test/3931933789_2755390977_3523527682.mp4'
+file 'file:/Users/michaelrichardson/Desktop/YouTube/TranslatingMathIntoCode1/media/videos/TestManim/1080p60/partial_movie_files/Test/3931933789_4287933918_37006775.mp4'
+file 'file:/Users/michaelrichardson/Desktop/YouTube/TranslatingMathIntoCode1/media/videos/TestManim/1080p60/partial_movie_files/Test/3931933789_2790205546_3960922163.mp4'
+file 'file:/Users/michaelrichardson/Desktop/YouTube/TranslatingMathIntoCode1/media/videos/TestManim/1080p60/partial_movie_files/Test/3931933789_329969645_652433046.mp4'
